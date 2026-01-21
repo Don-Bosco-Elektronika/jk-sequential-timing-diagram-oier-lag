@@ -46,29 +46,59 @@
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
 Circuito A
 
-*(Añade aquí la captura del WaveDrom)*
+*(<img width="581" height="362" alt="image" src="https://github.com/user-attachments/assets/e9265323-4ad8-4e48-a95e-8c5a53c4ba63" />
+)*
 
 Circuito B
 
-*(Añade aquí la captura del WaveDrom)*
+*(<img width="574" height="357" alt="image" src="https://github.com/user-attachments/assets/e56e732c-0ad6-4b58-afe2-18eccfdd2dbc" />
+)*
 
-... AÑADE LO MÁS CIRCUITOS
 
----
 
 
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
 Circuito A
 
-*(Añade aquí el código del WaveDrom)*
+*({signal: [
+
+  {name: 'clk', wave: 'N................'},
+  
+  {name: 'J', wave: '0101..0101.0..1.0'},
+  
+  {name: 'K', wave: '1...0..1.0..1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '0.101...0.1..0.1.'},
+  
+  {name: '-Q', wave: '1.010...1.0..1.0.'}
+  
+]}
+)*
 
 Circuito B
 
-*(Añade aquí el código del WaveDrom)*
+*({signal: [
 
-... AÑADE LO MÁS CIRCUITOS
+  {name: 'clk', wave: 'N................'},
+  
+  {name: 'J', wave: '0101..0101.0..1.0'},
+  
+  {name: 'K', wave: '1...0..1.0..1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '0.101...0.1..0.1.'},
+  
+  {name: '-Q', wave: '1.010...1.0..1.0.'}
+  
+]}
 
----
+
+)*
+
+
 
 
 ## 📤 Entrega / Igo / Upload  
