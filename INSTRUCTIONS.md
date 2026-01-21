@@ -16,7 +16,7 @@
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? |  
+| JK flanco ascendente | 4027         | <img width="150" height="132" alt="image" src="https://github.com/user-attachments/assets/98ed9b8f-552e-4075-8af6-6cd41bcd32e7" />| Hau ere JK da, baina honek erlojua igotzean (subida) egiten du aldaketa. |  
 
 **Exercice (EN): (WRITE THE NUMBER)**  
 | Name                     | Chip number | Symbol         | Description of Operation                                                               |
