@@ -8,7 +8,7 @@
 
 ## 📌 Ejercicio / Ariketa / Exercice
 
-**Ejercicio (ES): (ESCRIBE EL NÚMERO)**  
+**ariketa (EU): (zenbakia idatzi)**  
 | Nombre                     | Número de Chip | Símbolo         | Descripción del Funcionamiento                                                                 |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
 | JK flanco descendente | 7476        | <img width="159" height="154" alt="image" src="https://github.com/user-attachments/assets/7d57e11b-7901-48b4-9bff-14f64fa70b1a" /> | Flip-Flop zaharra da. Erlojuaren seinalea "1"etik "0"ra jaisten denean (bajada) aldatzen du egoera. | 
