@@ -38,9 +38,10 @@
 
 ## 🔲 Circuitos a Simular / Simulatzeko Zirkuituak / Circuits to Simulate
 
-*(Añade aquí la captura de proteus)*
-
----
+*(<img width="631" height="443" alt="image" src="https://github.com/user-attachments/assets/91cb6a52-930a-4192-9c5a-83a5a110a6fb" />
+)*
+(<img width="538" height="383" alt="image" src="https://github.com/user-attachments/assets/79d3095f-9e5c-42cd-8cc6-13ba49c63751" />
+)
 
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
 Circuito A
