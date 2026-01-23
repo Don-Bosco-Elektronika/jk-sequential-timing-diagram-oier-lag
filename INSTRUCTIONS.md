@@ -8,22 +8,19 @@
 
 ## 📌 Ejercicio / Ariketa / Exercice
 
-**Ejercicio (ES): (ESCRIBE EL NÚMERO)**  
+**ariketa (EU): (zenbakia idatzi)**  
 | Nombre                     | Número de Chip | Símbolo         | Descripción del Funcionamiento                                                                 |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? | 
+| JK flanco descendente | 7476        | <img width="159" height="154" alt="image" src="https://github.com/user-attachments/assets/7d57e11b-7901-48b4-9bff-14f64fa70b1a" /> | Flip-Flop zaharra da. Erlojuaren seinalea "1"etik "0"ra jaisten denean (bajada) aldatzen du egoera. | 
 
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? |  
+| JK flanco ascendente | 4027         | <img width="150" height="132" alt="image" src="https://github.com/user-attachments/assets/98ed9b8f-552e-4075-8af6-6cd41bcd32e7" />| Hau ere JK da, baina honek erlojua igotzean (subida) egiten du aldaketa. |  
 
-**Exercice (EN): (WRITE THE NUMBER)**  
-| Name                     | Chip number | Symbol         | Description of Operation                                                               |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ? | ? | ? |  
 
----
+
+
 
 ## Tabla de la verdad
 
@@ -38,36 +35,67 @@
 
 ## 🔲 Circuitos a Simular / Simulatzeko Zirkuituak / Circuits to Simulate
 
-*(Añade aquí la captura de proteus)*
-
----
+*(<img width="631" height="443" alt="image" src="https://github.com/user-attachments/assets/91cb6a52-930a-4192-9c5a-83a5a110a6fb" />
+)*
+(<img width="538" height="383" alt="image" src="https://github.com/user-attachments/assets/79d3095f-9e5c-42cd-8cc6-13ba49c63751" />
+)
 
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
 Circuito A
 
-*(Añade aquí la captura del WaveDrom)*
+*(<img width="581" height="362" alt="image" src="https://github.com/user-attachments/assets/e9265323-4ad8-4e48-a95e-8c5a53c4ba63" />
+)*
 
 Circuito B
 
-*(Añade aquí la captura del WaveDrom)*
+*(<img width="574" height="357" alt="image" src="https://github.com/user-attachments/assets/e56e732c-0ad6-4b58-afe2-18eccfdd2dbc" />
+)*
 
-... AÑADE LO MÁS CIRCUITOS
 
----
 
 
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
 Circuito A
 
-*(Añade aquí el código del WaveDrom)*
+*({signal: [
+
+  {name: 'clk', wave: 'N................'},
+  
+  {name: 'J', wave: '0101..0101.0..1.0'},
+  
+  {name: 'K', wave: '1...0..1.0..1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '0.101...0.1..0.1.'},
+  
+  {name: '-Q', wave: '1.010...1.0..1.0.'}
+  
+]}
+)*
 
 Circuito B
 
-*(Añade aquí el código del WaveDrom)*
+*({signal: [
 
-... AÑADE LO MÁS CIRCUITOS
+  {name: 'clk', wave: 'N................'},
+  
+  {name: 'J', wave: '0101..0101.0..1.0'},
+  
+  {name: 'K', wave: '1...0..1.0..1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '0.101...0.1..0.1.'},
+  
+  {name: '-Q', wave: '1.010...1.0..1.0.'}
+  
+]}
 
----
+
+)*
+
+
 
 
 ## 📤 Entrega / Igo / Upload  
